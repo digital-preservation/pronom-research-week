@@ -1,8 +1,8 @@
 # PRONOM Research Week
 
-After iPRES 2019 and with an eye on World Digital Preservation Day, we looked at ways we as a community to contribute to digital preservation efforts. We decided to focus on addressing gaps in PRONOM by organizing a PRONOM Research Week. During the week of 18-24 November, volunteers are encouraged to help with PRONOM’s research backlog. You can enhance documentation, supply sample files, or create a signature, among other things. 
+After iPRES 2019, we looked at ways we as a community to contribute to digital preservation efforts. We decided to focus on addressing gaps in PRONOM by organising regular PRONOM Research Weeks. During the fortnight of 5-19 October, volunteers are encouraged to help with PRONOM’s research backlog. You can enhance documentation, supply sample files, or create a signature, among other things. 
 
-We’re posting the PRONOM research backlog in a GitHub repository, which will also be the central location to share sample files and submissions. We also kindly ask for people to sign up via this [Google spreadsheet](https://docs.google.com/spreadsheets/d/1KIbSJXSRZzDynoamzSbs_y592fmRFGLm0t2U5UHhdfA/edit#gid=0), so that people can coordinate. We’ve also posted some resources here, which include blog entries and webinars to help people learn more and get started.  
+Additional resources to support research activities will follow. 
 
 # Resources
 
@@ -67,10 +67,10 @@ Your format may not easily fit into any of the above categories, so feel free to
 
 # Anti-harassment policy
 
-pronom-research-week-2019 is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.
+pronom-research-week is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all pronom-research-week-2019 spaces, including Google Docs, Google Groups, our GitHub repository, and e-mails, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the RESPONSE TEAM (can be reached at pronom@nationalarchives.gov.uk).
+This code of conduct applies to all pronom-research-week spaces, including Google Docs, Google Groups, our GitHub repository, and e-mails, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the RESPONSE TEAM (can be reached at pronom@nationalarchives.gov.uk).
 
-Some pronom-research-week-2019 spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+Some pronom-research-week spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 This anti-harassment policy text has been taken and modified from https://geekfeminism.wikia.org/wiki/Community_anti-harassment/Policy.
