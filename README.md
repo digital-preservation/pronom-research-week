@@ -1,6 +1,6 @@
 # PRONOM Research Week
 
-After iPRES 2019, we looked at ways we as a community to contribute to digital preservation efforts. We decided to focus on addressing gaps in PRONOM by organising regular PRONOM Research Weeks. During the fortnight of 5-19 October, volunteers are encouraged to help with PRONOM’s research backlog. You can enhance documentation, supply sample files, or create a signature, among other things. 
+After iPRES 2019, we looked at ways we as a community to contribute to digital preservation efforts. We decided to focus on addressing gaps in PRONOM by organising regular PRONOM Research Weeks. During the fortnight of 5-19 October 2020, volunteers are encouraged to help with PRONOM’s research backlog. You can enhance documentation, supply sample files, or create a signature, among other things. 
 
 Additional resources to support research activities will follow. 
 
