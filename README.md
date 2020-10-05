@@ -9,6 +9,7 @@ Additional resources to support research activities will follow.
 - PRONOM can be found here: www.nationalarchives.gov.uk/PRONOM
 - A list of blogs, presentations, and other resources to assist with PRONOM research and file format signature development [can be found here](https://docs.google.com/spreadsheets/d/12YnUPnHaoYzDrf2SgxGDxi5e6r3WOpEfk23ibt3qVyg/edit#gid=0)
 - If you would like help or advice on conducting your research, crafting your submission, creating a signature, or if you’re having difficulty finding samples, please create a conversation thread on our [Google Group](https://groups.google.com/forum/#!forum/pronom)
+- Here is a list of PUIDs that currently lack signatures (https://github.com/digital-preservation/pronom-research-week/blob/master/formats_without_signatures_Oct_2020.csv)
 
 # Submissions
 
