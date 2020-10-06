@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1" DateCreated="2019-11-19T13:58:55+00:00">
+    <InternalSignatureCollection>
+        <InternalSignature ID="1">
+            <ByteSequence Reference="BOFoffset" Endianness="">
+                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0" MinFragLength="0">
+                    <Sequence>255044462D312E37</Sequence>
+                    <DefaultShift>9</DefaultShift>
+                    <Shift Byte="25">8</Shift>
+                    <Shift Byte="2D">4</Shift>
+                    <Shift Byte="2E">2</Shift>
+                    <Shift Byte="31">3</Shift>
+                    <Shift Byte="37">1</Shift>
+                    <Shift Byte="44">6</Shift>
+                    <Shift Byte="46">5</Shift>
+                    <Shift Byte="50">7</Shift>
+                </SubSequence>
+            </ByteSequence>
+            <ByteSequence Endianness="">
+                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0" MinFragLength="0">
+                    <Sequence>2F436F6C6C656374696F6E20</Sequence>
+                    <DefaultShift>13</DefaultShift>
+                    <Shift Byte="20">1</Shift>
+                    <Shift Byte="2F">12</Shift>
+                    <Shift Byte="43">11</Shift>
+                    <Shift Byte="63">6</Shift>
+                    <Shift Byte="65">7</Shift>
+                    <Shift Byte="69">4</Shift>
+                    <Shift Byte="6C">8</Shift>
+                    <Shift Byte="6F">3</Shift>
+                    <Shift Byte="6E">2</Shift>
+                    <Shift Byte="74">5</Shift>
+                </SubSequence>
+            </ByteSequence>
+            <ByteSequence Endianness=""> 
+                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0" MinFragLength="0">
+                    <Sequence>3C3C2F43493C3C</Sequence>
+                    <DefaultShift>8</DefaultShift>
+                    <Shift Byte="2F">5</Shift>
+                    <Shift Byte="3C">1</Shift>
+                    <Shift Byte="43">4</Shift>
+                    <Shift Byte="49">3</Shift>
+                </SubSequence>
+            </ByteSequence>
+            <ByteSequence Reference="EOFoffset" Endianness="">
+                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0" MinFragLength="0">
+                    <Sequence>2525454F</Sequence>
+                    <DefaultShift>-5</DefaultShift>
+                    <Shift Byte="25">-1</Shift>
+                    <Shift Byte="45">-3</Shift>
+                    <Shift Byte="4F">-4</Shift>
+                    <RightFragment Position="1" MinOffset="0" MaxOffset="0">46</RightFragment>
+                    <RightFragment Position="1" MinOffset="0" MaxOffset="0">460A</RightFragment>
+                    <RightFragment Position="1" MinOffset="0" MaxOffset="0">460D</RightFragment>
+                    <RightFragment Position="1" MinOffset="0" MaxOffset="0">460D0A</RightFragment>
+                    <RightFragment Position="1" MinOffset="0" MaxOffset="0">460D00</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+    </InternalSignatureCollection>
+    <FileFormatCollection>
+        <FileFormat ID="1" Name="PDF Portfolio" PUID="PRS-fmt/1" Version="1.7" MIMEType="application/json">
+            <InternalSignatureID>1</InternalSignatureID>
+            <Extension>pdf</Extension>
+            <HasPriorityOverFileFormatID>fmt/276</HasPriorityOverFileFormatID>
+        </FileFormat>
+    </FileFormatCollection>
+</FFSignatureFile>

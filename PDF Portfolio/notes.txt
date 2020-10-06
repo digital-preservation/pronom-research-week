@@ -1,0 +1,37 @@
+Format Name:
+PDF Portfolio
+
+Version Number:
+1.7
+
+Extension:
+pdf
+
+MIME-Type:
+application/pdf
+
+Description:
+PDF Portfolio files are PDFs using a feature added to the PDF specification in version 1.7 called "Collections". Collections offer a way to embed file attachments that are related in structure or content, as well as information that a reader application should use to determine how to present these files. A simple metadata schema can also be defined for the collection, allowing metadata to be provided for each item in the collection. Additionally, folder structure can be provided for the collection items, allowing reader applications to present the attachments with a tree-view. This makes the PDF Portfolio a convenient format to export mailboxes as mail folder structure can be preserved, along with standard email metadata such as "To", "From" and "Subject" fields.
+
+PDF Portfolio files can specify a "default view", which is a file in the collection that a reader application should display when opening the Portfolio, but it is a container format more than a document format.
+
+
+Format Type:
+Container
+
+Vendor:
+Adobe
+https://www.adobe.com
+
+Example File Sources:
+Preservica customers, examples forwarded by direct email to pronom team
+
+
+File Format identification signatures:
+See signature-file.xml with dummy PUID PRS-fmt/1.
+
+This signature extends the standard PDF 1.7 signature with two additional byte sequences with no BOF or EOF offset requirements. 
+
+The first is looking for the string "/Collection ", which should be found in the Catalog object of a PDF making use of the Collection feature. Technically, this could be extended to "/Collection {M} {N} R", since this is an indirect object reference to the Collection itself, however since M and N are string representations of numbers, and since there is technically no defined upper limit to the number of objects in a PDF document, and since we cannot use a regex style expression "[30:39]+", the permutations would quickly become very complex.
+
+The second is looking for the string "<</CI<<", which is the dictionary entry for a Collection Item (which is itself a dictionary) that forms part of the Collection.
