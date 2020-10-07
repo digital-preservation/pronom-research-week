@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1" DateCreated="2020-10-07T10:40:45+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>664C6143</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="66">4</Shift>
+      <Shift Byte="4C">3</Shift>
+      <Shift Byte="61">2</Shift>
+      <Shift Byte="43">1</Shift>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">80</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">00</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">000022</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="FLAC (Free Lossless Audio Codec)" PUID="fmt/279" Version="" MIMEType="audio/flac">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>flac</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>
