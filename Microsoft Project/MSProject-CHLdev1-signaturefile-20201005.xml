@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="959504"> 
+    <ContainerSignatures>
+
+        <ContainerSignature Id="4000" ContainerType="OLE2">
+            <Description>Microsoft Project 4.0 OLE2</Description>
+            <Files>
+                <File>
+                    <Path>CompObj</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="310">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="40"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>14 00 00 00 'MSProject.DocFile.4' 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="1000" ContainerType="OLE2">
+            <Description>Microsoft Project 95 OLE2</Description>
+            <Files>
+					 <File>
+					     <Path>CompObj</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="40" SubSeqMaxOffset="1024">
+	                                    <Sequence>14 00 00 00 'MSProject.DocFile.4' 00</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="2" SubSeqMinOffset="40" SubSeqMaxOffset="1024">
+	                                    <Sequence>16 00 00 00 'MSProject.Project.4_1' 00</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+        <!-- Microsoft Project 95 (OLE2)-->
+        <FileFormatMapping signatureId="1000" Puid="x-fmt/244"/>
+        
+        <!-- Microsoft Project 4.0 (OLE2)-->
+        <FileFormatMapping signatureId="4000" Puid="x-fmt/243"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>
