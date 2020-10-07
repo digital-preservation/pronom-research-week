@@ -59,10 +59,10 @@
         </InternalSignature>
     </InternalSignatureCollection>
     <FileFormatCollection>
-        <FileFormat ID="1" Name="PDF Portfolio" PUID="PRS-fmt/1" Version="1.7" MIMEType="application/json">
+        <FileFormat ID="1" Name="PDF Portfolio" PUID="PRS-fmt/1" Version="1.7" MIMEType="application/pdf">
             <InternalSignatureID>1</InternalSignatureID>
             <Extension>pdf</Extension>
-            <HasPriorityOverFileFormatID>fmt/276</HasPriorityOverFileFormatID>
+            <HasPriorityOverFileFormatID>${fmt/276}</HasPriorityOverFileFormatID>
         </FileFormat>
     </FileFormatCollection>
 </FFSignatureFile>
