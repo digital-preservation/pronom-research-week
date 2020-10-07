@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="434357"> 
+    <ContainerSignatures>
+
+        <ContainerSignature Id="4001" ContainerType="OLE2">
+            <Description>Microsoft Works Word Processor Macintosh</Description>
+            <Files>
+                <File>
+                    <Path>MacWorks</Path>
+                </File>
+					 <File>
+					     <Path>MN0</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>'CHNKINK'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4002" ContainerType="OLE2">
+            <Description>Microsoft Works Spreadsheet for Macintosh</Description>
+            <Files>
+                <File>
+                    <Path>MacWorks</Path>
+                </File>
+                <File>
+                    <Path>MN0</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+                                        <Sequence>00 00 00 0B</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="24">
+                                        <Sequence>00 00 05 6C 00 03 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4003" ContainerType="OLE2">
+            <Description>Microsoft Works Database for Macintosh</Description>
+            <Files>
+                <File>
+                    <Path>MacWorks</Path>
+                </File>
+                <File>
+                    <Path>MN0</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+                                        <Sequence>00 00 00 0B</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="24">
+                                        <Sequence>00 00 00 50 00 02 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4004" ContainerType="OLE2">
+            <Description>Microsoft Works Drawing for Macintosh</Description>
+            <Files>
+                <File>
+                    <Path>MacWorks</Path>
+                </File>
+                <File>
+                    <Path>MN0</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+                                        <Sequence>00 00 00 0B</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="24">
+                                        <Sequence>00 00 00 00 00 0C 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+        <!--  Microsoft Works Word Processor Macintosh Container File (OLE2)-->
+        <FileFormatMapping signatureId="4001" Puid="fmt/273"/>
+        
+        <!--  Microsoft Works Spreadsheet for Macintosh Container File (OLE2)-->
+        <FileFormatMapping signatureId="4002" Puid="fmt/271"/>
+        
+        <!--  Microsoft Works Database for Macintosh Container File (OLE2)-->
+        <FileFormatMapping signatureId="4003" Puid="fmt/269"/>
+        
+        <!--  Microsoft Works Drawing for Macintosh Container File (OLE2)-->
+        <FileFormatMapping signatureId="4004" Puid="CHLdev/2"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>
