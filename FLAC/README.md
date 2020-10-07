@@ -37,6 +37,18 @@ last-metadata-block-flag (1 bit) + block type STREAMINFO (7 bits)
    signature should allow both 0 (this is not the last metadata block before the
    audio data, others follow) and 1 (this is the last block). → Amended.
 
+## Example file
+
+The [attached example file](example.flac) has no metadata blocks except for the
+mandatory STREAMINFO block. It can be identified with the improved signature but
+not with the signature currently in PRONOM.
+
+For reference, it is based on [this WAVE file](https://github.com/marhop/literate-binary/blob/master/examples/wave/wave.md)
+converted to FLAC with the optional blocks removed:
+
+    $ flac example.wav
+    $ metaflac --remove-all --dont-use-padding example.flac
+
 # Attribution
 
 Landesarchiv Nordrhein-Westfalen
