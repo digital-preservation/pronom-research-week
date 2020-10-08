@@ -1,6 +1,8 @@
 Publisher Contents offset magic number
 
+Version one files not in OLE containter begin with "E7AC2C00"
 All seem to have "E8AC2200" or 2002+ "E8AC2C00" at offset 0
+https://git.libreoffice.org/libmspub/+/refs/heads/master/src/lib/MSPUBDocument.cpp
 
 Offset 12:
 Pub v2:		C002
