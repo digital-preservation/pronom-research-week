@@ -1,0 +1,18 @@
+Publisher Contents offset magic number
+
+All seem to have "E8AC2200" or 2002+ "E8AC2C00" at offset 0
+
+Offset 12:
+Pub v2:		C002
+Pub 95:		7D00
+Pub 97:		8800
+Pub 98:		6802
+Pub 2000:	CD02
+Pub 2002:	0E00
+Pub 2003:	1300
+Pub 2007:	1500
+Pub 2010:	1800
+Pub 365:	1A00
+
+
+MSPUB from 2005:	1400
