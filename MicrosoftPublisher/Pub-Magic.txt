@@ -18,3 +18,7 @@ Pub 365:	1A00
 
 
 MSPUB from 2005:	1400
+
+DocumentSummaryInformation contains Application version information, but only from 2003+
+Major version at 0x76 (offset 118) ie. 0B = Version 11
+
