@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="027937"> 
+    <ContainerSignatures>
+
+        <ContainerSignature Id="5000" ContainerType="OLE2">
+            <Description>Microsoft Publisher 2.0</Description>
+            <Files>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="315">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>E8 AC 22 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="12"
+                                        SubSeqMaxOffset="24">
+                                        <Sequence>C0 02</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="5010" ContainerType="OLE2">
+            <Description>Microsoft Publisher 95</Description>
+            <Files>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="315">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>E8 AC 22 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="12"
+                                        SubSeqMaxOffset="24">
+                                        <Sequence>7D 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="5011" ContainerType="OLE2">
+            <Description>Microsoft Publisher 97</Description>
+            <Files>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="315">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>E8 AC 22 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="12"
+                                        SubSeqMaxOffset="24">
+                                        <Sequence>88 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="5012" ContainerType="OLE2">
+            <Description>Microsoft Publisher 98</Description>
+            <Files>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="315">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>E8 AC 22 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="12"
+                                        SubSeqMaxOffset="24">
+                                        <Sequence>68 02</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="5013" ContainerType="OLE2">
+            <Description>Microsoft Publisher 2000</Description>
+            <Files>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="315">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>E8 AC 22 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="12"
+                                        SubSeqMaxOffset="24">
+                                        <Sequence>CD 02</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="5020" ContainerType="OLE2">
+            <Description>Microsoft Publisher 2002</Description>
+            <Files>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="316">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>E8 AC 2C 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="12"
+                                        SubSeqMaxOffset="24">
+                                        <Sequence>0E 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="5021" ContainerType="OLE2">
+            <Description>Microsoft Publisher 2003</Description>
+            <Files>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="316">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>E8 AC 2C 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+                <File>
+                    <Path>DocumentSummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="320">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence MinFragLength="0" Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>03 00 00 00</Sequence>
+                                        <RightFragment MaxOffset="2" MinOffset="2" Position="1"
+                                            >0B</RightFragment>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="5022" ContainerType="OLE2">
+            <Description>Microsoft Publisher 2007</Description>
+            <Files>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="316">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>E8 AC 2C 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+                <File>
+                    <Path>DocumentSummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="320">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence MinFragLength="0" Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>03 00 00 00</Sequence>
+                                        <RightFragment MaxOffset="2" MinOffset="2" Position="1"
+                                            >0C</RightFragment>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="5023" ContainerType="OLE2">
+            <Description>Microsoft Publisher 2010</Description>
+            <Files>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="316">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>E8 AC 2C 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+                <File>
+                    <Path>DocumentSummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="320">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence MinFragLength="0" Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>03 00 00 00</Sequence>
+                                        <RightFragment MaxOffset="2" MinOffset="2" Position="1"
+                                            >0E</RightFragment>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="5024" ContainerType="OLE2">
+            <Description>Microsoft Publisher 2013</Description>
+            <Files>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="316">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>E8 AC 2C 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+                <File>
+                    <Path>DocumentSummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="320">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence MinFragLength="0" Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>03 00 00 00</Sequence>
+                                        <RightFragment MaxOffset="2" MinOffset="2" Position="1"
+                                            >0F</RightFragment>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="5025" ContainerType="OLE2">
+            <Description>Microsoft Publisher 2016-2019</Description>
+            <Files>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="316">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>E8 AC 2C 00</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+                <File>
+                    <Path>DocumentSummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="320">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence MinFragLength="0" Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+                                        <Sequence>03 00 00 00</Sequence>
+                                        <RightFragment MaxOffset="2" MinOffset="2" Position="1"
+                                            >10</RightFragment>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+        <!-- Microsoft Publisher 2.0 (OLE2)-->
+        <FileFormatMapping signatureId="5000" Puid="x-fmt/252"/>
+        <!-- Microsoft Publisher 95 (OLE2)-->
+        <FileFormatMapping signatureId="5010" Puid="x-fmt/253"/>
+        <!-- Microsoft Publisher 97 (OLE2)-->
+        <FileFormatMapping signatureId="5011" Puid="x-fmt/254"/>
+        <!-- Microsoft Publisher 98 (OLE2)-->
+        <FileFormatMapping signatureId="5012" Puid="x-fmt/255"/>
+        <!-- Microsoft Publisher 2000 (OLE2)-->
+        <FileFormatMapping signatureId="5013" Puid="x-fmt/256"/>
+        <!-- Microsoft Publisher 2002 (OLE2)-->
+        <FileFormatMapping signatureId="5020" Puid="x-fmt/257"/>
+        <!-- Microsoft Publisher 2003 (OLE2)-->
+        <FileFormatMapping signatureId="5021" Puid="CHLdev/2"/>
+        <!-- Microsoft Publisher 2007 (OLE2)-->
+        <FileFormatMapping signatureId="5022" Puid="CHLdev/3"/>
+        <!-- Microsoft Publisher 2010 (OLE2)-->
+        <FileFormatMapping signatureId="5023" Puid="CHLdev/4"/>
+        <!-- Microsoft Publisher 2013 (OLE2)-->
+        <FileFormatMapping signatureId="5024" Puid="CHLdev/5"/>
+        <!-- Microsoft Publisher 2016-2019 (OLE2)-->
+        <FileFormatMapping signatureId="5025" Puid="CHLdev/6"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>

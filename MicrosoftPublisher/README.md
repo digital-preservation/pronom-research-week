@@ -5,13 +5,20 @@ http://fileformats.archiveteam.org/wiki/Microsoft_Publisher
 ### Proposed Changes:
 
 1. Remove dependency on CompObj "MSPublisher" signature. Many samples do not have a CompObj, also too vaugue for versions. 
-2. New signatures based on "Contents" header.
+2. Version 1 new signatures based on "Contents" header.
+3. Version 2 new signatures based on "Contents" header and 2003+ Version number in DocumentSummaryInformation.
 
-### Signature Changes
+### Signature Changes Version 1
 
 * x-fmt/252 (2.0), x-fmt/253 (95), x-fmt/257 (2002) Adjusted to new signature specific to version.
 * Added signature to x-fmt/254 (97), x-fmt/255 (98), x-fmt/256 (2000)
 * New entry for CHLdev/1 (1.0), CHLdev/2 (2003), CHLdev/3 (2007), CHLdev/4 (2010), CHLdev/5 (2013 onwards)
+
+### Signature Changes Version 2
+
+* x-fmt/252 (2.0), x-fmt/253 (95), x-fmt/257 (2002) Adjusted to new signature specific to version.
+* Added signature to x-fmt/254 (97), x-fmt/255 (98), x-fmt/256 (2000)
+* New entry for CHLdev/1 (1.0), CHLdev/2 (2003), CHLdev/3 (2007), CHLdev/4 (2010), CHLdev/5 (2013), CHLdev/6 (2016-2019)
 
 
 
