@@ -21,3 +21,6 @@ The attached [signature file](lwp_96_pronom.xml) reflects this change.
 
 ## TNA Reference
 We have previously contacted PRONOM with this proposed change. Our TNA reference is TNA1583762582J23.
+
+## Attribution
+[Aarhus City Archives](https://www.aarhusstadsarkiv.dk/)
