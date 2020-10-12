@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1" DateCreated="2020-10-12T11:03:39+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>576F726450726F0DFB000000000000000005985C8172030040CCC1BFFFBDF9</Sequence>
+      <DefaultShift>32</DefaultShift>
+      <Shift Byte="57">31</Shift>
+      <Shift Byte="6F">25</Shift>
+      <Shift Byte="72">10</Shift>
+      <Shift Byte="64">28</Shift>
+      <Shift Byte="50">27</Shift>
+      <Shift Byte="0D">24</Shift>
+      <Shift Byte="FB">23</Shift>
+      <Shift Byte="00">8</Shift>
+      <Shift Byte="05">14</Shift>
+      <Shift Byte="98">13</Shift>
+      <Shift Byte="5C">12</Shift>
+      <Shift Byte="81">11</Shift>
+      <Shift Byte="03">9</Shift>
+      <Shift Byte="40">7</Shift>
+      <Shift Byte="CC">6</Shift>
+      <Shift Byte="C1">5</Shift>
+      <Shift Byte="BF">4</Shift>
+      <Shift Byte="FF">3</Shift>
+      <Shift Byte="BD">2</Shift>
+      <Shift Byte="F9">1</Shift>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">50</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">70</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="Lotus WordPro Document" PUID="x-fmt/340" Version="96" MIMEType="application/vnd.lotus-wordpro">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>lwp</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>
