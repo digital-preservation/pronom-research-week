@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1" DateCreated="2020-10-13T10:13:15+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>00001A0003100400</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="1A">6</Shift>
+      <Shift Byte="03">4</Shift>
+      <Shift Byte="10">3</Shift>
+      <Shift Byte="04">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="Lotus 1-2-3 Worksheet" PUID="aca-fmt/2" Version="97" MIMEType="application/vnd.lotus-1-2-3">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>123</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>
