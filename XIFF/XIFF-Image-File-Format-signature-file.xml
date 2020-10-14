@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="333299" DateCreated="2020-10-14T20:57:03+00:00">
+  <InternalSignatureCollection>
+    
+    <InternalSignature ID="1" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="8" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>5845524F58204449464602</Sequence>
+          <DefaultShift>12</DefaultShift>
+          <Shift Byte="58">7</Shift>
+          <Shift Byte="45">10</Shift>
+          <Shift Byte="52">9</Shift>
+          <Shift Byte="4F">8</Shift>
+          <Shift Byte="20">6</Shift>
+          <Shift Byte="44">5</Shift>
+          <Shift Byte="49">4</Shift>
+          <Shift Byte="46">2</Shift>
+          <Shift Byte="02">1</Shift>
+          <LeftFragment MaxOffset="4" MinOffset="4" Position="1">49492A00</LeftFragment>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="8" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>20655874656E6465642003</Sequence>
+      <DefaultShift>12</DefaultShift>
+      <Shift Byte="20">2</Shift>
+      <Shift Byte="65">4</Shift>
+      <Shift Byte="58">9</Shift>
+      <Shift Byte="74">8</Shift>
+      <Shift Byte="6E">6</Shift>
+      <Shift Byte="64">3</Shift>
+      <Shift Byte="03">1</Shift>
+      <LeftFragment MaxOffset="4" MinOffset="4" Position="1">49492A00</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+    
+</InternalSignatureCollection>
+<FileFormatCollection>
+  
+  <FileFormat ID="1" Name="Xerox DIFF Image" PUID="CHLdev/2" Version="2" MIMEType="image/vnd.xiff">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>xif</Extension>
+  </FileFormat>
+  
+  <FileFormat ID="2" Name="eXtended Image File" PUID="CHLdev/3" Version="3" MIMEType="image/vnd.xiff">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>xif</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
