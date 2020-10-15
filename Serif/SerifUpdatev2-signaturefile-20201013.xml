@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="564472"> 
+    <ContainerSignatures>
+        
+        <ContainerSignature Id="22040" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication 4</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22040">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus 4'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22050" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication 5</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22050">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus 5'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22060" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication 6</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22060">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus 6'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22070" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication 7</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22070">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus 7'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22080" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication 8</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22080">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus 8'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22085" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication 8</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22085">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus PDF Edition 8'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22090" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication 9</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22090">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus 9'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22100" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication 10</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22100">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus 10'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22110" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication 11</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22110">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus 11'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22120" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication 12</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22120">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus 12'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22200" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication Home Office</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22200">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus Home/Office'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22500" ContainerType="OLE2">
+            <Description>Serif DrawPlus Drawing 3</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22500">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif DrawPlus 3'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22510" ContainerType="OLE2">
+            <Description>Serif DrawPlus Drawing 4</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22510">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif DrawPlus 4'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="22520" ContainerType="OLE2">
+            <Description>Serif DrawPlus Drawing 5</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="22520">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif DrawPlus 5'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="1010" ContainerType="ZIP">
+            <Description>Serif PhotoPlus Image</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>document.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'DocSize='</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1020" ContainerType="OLE2">
+            <Description>Serif PhotoPlus Image</Description>
+            <Files>
+                <File>
+                    <Path>SCFFPreview</Path>
+                </File>
+                <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="24">
+                                        <Sequence>'CompressionFile'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3013" ContainerType="ZIP">
+            <Description>Serif PagePlus Publication</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif PagePlus 13'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3014" ContainerType="ZIP">
+            <Description>Serif PagePlus Publication</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif PagePlus 14'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3015" ContainerType="ZIP">
+            <Description>Serif PagePlus Publication</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif PagePlus 15'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3016" ContainerType="ZIP">
+            <Description>Serif PagePlus Publication</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif PagePlus 16'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3017" ContainerType="ZIP">
+            <Description>Serif PagePlus Publication</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif PagePlus 17'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3018" ContainerType="ZIP">
+            <Description>Serif PagePlus Publication</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif PagePlus 18'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3019" ContainerType="ZIP">
+            <Description>Serif PagePlus Publication</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif PagePlus 19'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3020" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication</Description>
+            <Files>
+                <File>
+                    <Path>FileInfo</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>CE 19 CE 19</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3021" ContainerType="OLE2">
+            <Description>Serif PagePlus Publication</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'Serif PagePlus SE'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4006" ContainerType="OLE2">
+            <Description>Serif DrawPlus Drawing</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'DrawPlus 6'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4007" ContainerType="OLE2">
+            <Description>Serif DrawPlus Drawing</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'DrawPlus 7'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4008" ContainerType="OLE2">
+            <Description>Serif DrawPlus Drawing</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'DrawPlus 8'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4009" ContainerType="OLE2">
+            <Description>Serif DrawPlus Drawing</Description>
+            <Files>
+                <File>
+                    <Path>SummaryInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="1024">
+                                        <Sequence>'DrawPlus 9'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4013" ContainerType="ZIP">
+            <Description>Serif DrawPlus Drawing</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif DrawPlus 10'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4014" ContainerType="ZIP">
+            <Description>Serif DrawPlus Drawing</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif DrawPlus 11'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4015" ContainerType="ZIP">
+            <Description>Serif DrawPlus Drawing</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif DrawPlus 12'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4016" ContainerType="ZIP">
+            <Description>Serif DrawPlus Drawing</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif DrawPlus 13'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4018" ContainerType="ZIP">
+            <Description>Serif DrawPlus Drawing</Description>
+            <Files>
+                <File>
+                    <Path>Root.xml</Path>
+                </File>
+                <File>
+                    <Path>summary.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="64">
+                                        <Sequence>'SerifXML version="1.0"'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="128">
+                                        <Sequence>'Serif DrawPlus 14'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="4020" ContainerType="OLE2">
+            <Description>Serif DrawPlus Drawing</Description>
+            <Files>
+                <File>
+                    <Path>DocInfo</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="24">
+                                        <Sequence>'CompressionFile'</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+        
+        <!--  Serif PhotoPlus Image Container File (ZIP)-->
+        <FileFormatMapping signatureId="1010" Puid="CHLdev/2"/>
+        <!--  Serif PhotoPlus Image Container File (OLE)-->
+        <FileFormatMapping signatureId="1020" Puid="CHLdev/3"/>
+        
+        <!--  Serif PagePlus Publication Container File (ZIP)-->
+        <FileFormatMapping signatureId="3013" Puid="CHLdev/113"/>
+        
+        <!--  Serif PagePlus Publication Container File (ZIP)-->
+        <FileFormatMapping signatureId="3014" Puid="CHLdev/114"/>
+        
+        <!--  Serif PagePlus Publication Container File (ZIP)-->
+        <FileFormatMapping signatureId="3015" Puid="CHLdev/115"/>
+        
+        <!--  Serif PagePlus Publication Container File (ZIP)-->
+        <FileFormatMapping signatureId="3016" Puid="CHLdev/116"/>
+        
+        <!--  Serif PagePlus Publication Container File (ZIP)-->
+        <FileFormatMapping signatureId="3017" Puid="CHLdev/117"/>
+        
+        <!--  Serif PagePlus Publication Container File (ZIP)-->
+        <FileFormatMapping signatureId="3018" Puid="CHLdev/118"/>
+        
+        <!--  Serif PagePlus Publication Container File (ZIP)-->
+        <FileFormatMapping signatureId="3019" Puid="CHLdev/119"/>
+        
+        <!--  Serif PagePlus Publication Container File (OLE)-->
+        <FileFormatMapping signatureId="3021" Puid="CHLdev/120"/>
+        
+        <!--  Serif DrawPlus Drawing Container File (OLE)-->
+        <FileFormatMapping signatureId="4006" Puid="CHLdev/206"/>
+        
+        <!--  Serif DrawPlus Drawing Container File (OLE)-->
+        <FileFormatMapping signatureId="4007" Puid="CHLdev/207"/>
+        
+        <!--  Serif DrawPlus Drawing Container File (OLE)-->
+        <FileFormatMapping signatureId="4008" Puid="CHLdev/208"/>
+        
+        <!--  Serif DrawPlus Drawing Container File (OLE)-->
+        <FileFormatMapping signatureId="4009" Puid="CHLdev/209"/>
+        
+        <!--  Serif DrawPlus Drawing Container File (ZIP)-->
+        <FileFormatMapping signatureId="4013" Puid="CHLdev/223"/>
+        
+        <!--  Serif DrawPlus Drawing Container File (ZIP)-->
+        <FileFormatMapping signatureId="4014" Puid="CHLdev/224"/>
+        
+        <!--  Serif DrawPlus Drawing Container File (ZIP)-->
+        <FileFormatMapping signatureId="4015" Puid="CHLdev/225"/>
+        
+        <!--  Serif DrawPlus Drawing Container File (ZIP)-->
+        <FileFormatMapping signatureId="4016" Puid="CHLdev/226"/>
+        
+        <!--  Serif DrawPlus Drawing Container File (ZIP)-->
+        <FileFormatMapping signatureId="4018" Puid="CHLdev/228"/>
+        
+        <!--  Serif PagePlus Publication Generic(OLE2)-->
+        <FileFormatMapping signatureId="3020" Puid="fmt/671"/>
+        <!--  Serif PagePlus Publication Generic(OLE2)-->
+        <FileFormatMapping signatureId="4020" Puid="CHLdev/230"/>
+        
+        <!--  Serif PagePlus Publication 4(OLE2)-->
+        <FileFormatMapping signatureId="22040" Puid="fmt/672"/>
+        <!--  Serif PagePlus Publication 5(OLE2)-->
+        <FileFormatMapping signatureId="22050" Puid="fmt/673"/>
+        <!--  Serif PagePlus Publication 6(OLE2)-->
+        <FileFormatMapping signatureId="22060" Puid="fmt/674"/>
+        <!--  Serif PagePlus Publication 7(OLE2)-->
+        <FileFormatMapping signatureId="22070" Puid="fmt/675"/>
+        <!--  Serif PagePlus Publication 8(OLE2)-->
+        <FileFormatMapping signatureId="22080" Puid="fmt/676"/>
+        <!--  Serif PagePlus Publication 8(OLE2)-->
+        <FileFormatMapping signatureId="22085" Puid="fmt/676"/>
+        <!--  Serif PagePlus Publication 9(OLE2)-->
+        <FileFormatMapping signatureId="22090" Puid="fmt/677"/>
+        <!--  Serif PagePlus Publication 10(OLE2)-->
+        <FileFormatMapping signatureId="22100" Puid="fmt/678"/>
+        <!--  Serif PagePlus Publication 11(OLE2)-->
+        <FileFormatMapping signatureId="22110" Puid="fmt/679"/>
+        <!--  Serif PagePlus Publication 12(OLE2)-->
+        <FileFormatMapping signatureId="22120" Puid="fmt/680"/>
+        <!--  Serif PagePlus Publication Home Office (OLE2)-->
+        <FileFormatMapping signatureId="22200" Puid="fmt/681"/>
+        
+        <!--  Serif DrawPlus Drawing 3 (OLE2)-->
+        <FileFormatMapping signatureId="22500" Puid="fmt/827"/>
+        <!--  Serif DrawPlus Drawing 4 (OLE2)-->
+        <FileFormatMapping signatureId="22510" Puid="fmt/852"/>
+        <!--  Serif DrawPlus Drawing 5 (OLE2)-->
+        <FileFormatMapping signatureId="22520" Puid="fmt/853"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>

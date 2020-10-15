@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="444475" DateCreated="2015-01-06T07:33:54+01:00">
+  <InternalSignatureCollection>
+  
+          <InternalSignature ID="170" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>D0CF11E0A1B11AE1</Sequence>
+                    <DefaultShift>9</DefaultShift>
+                    <Shift Byte="11">6</Shift>
+                    <Shift Byte="1A">2</Shift>
+                    <Shift Byte="A1">4</Shift>
+                    <Shift Byte="B1">3</Shift>
+                    <Shift Byte="CF">7</Shift>
+                    <Shift Byte="D0">8</Shift>
+                    <Shift Byte="E0">5</Shift>
+                    <Shift Byte="E1">1</Shift>
+                    <RightFragment MaxOffset="20" MinOffset="20" Position="1">FEFF</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+  
+        <InternalSignature ID="200" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="4" SubSeqMinOffset="0">
+                    <Sequence>504B0304</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="03">2</Shift>
+                    <Shift Byte="04">1</Shift>
+                    <Shift Byte="4B">3</Shift>
+                    <Shift Byte="50">4</Shift>
+                </SubSequence>
+            </ByteSequence>
+            <ByteSequence Endianness="Little-endian" Reference="EOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="65531" SubSeqMinOffset="18">
+                    <Sequence>504B0506</Sequence>
+                    <DefaultShift>-5</DefaultShift>
+                    <Shift Byte="05">-3</Shift>
+                    <Shift Byte="06">-4</Shift>
+                    <Shift Byte="4B">-2</Shift>
+                    <Shift Byte="50">-1</Shift>
+                    <LeftFragment MaxOffset="65531" MinOffset="43" Position="1">504B01</LeftFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+
+        <InternalSignature ID="258" Specificity="Specific">
+            <ByteSequence Endianness="Little-endian" Reference="BOFoffset">
+                <SubSequence MinFragLength="30" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>5B436F6E74656E745F54797065735D2E786D6C20A2</Sequence>
+                    <DefaultShift>22</DefaultShift>
+                    <Shift Byte="20">2</Shift>
+                    <Shift Byte="2E">6</Shift>
+                    <Shift Byte="43">20</Shift>
+                    <Shift Byte="54">12</Shift>
+                    <Shift Byte="5B">21</Shift>
+                    <Shift Byte="5D">7</Shift>
+                    <Shift Byte="5F">13</Shift>
+                    <Shift Byte="65">9</Shift>
+                    <Shift Byte="6C">3</Shift>
+                    <Shift Byte="6D">4</Shift>
+                    <Shift Byte="6E">15</Shift>
+                    <Shift Byte="6F">19</Shift>
+                    <Shift Byte="70">10</Shift>
+                    <Shift Byte="73">8</Shift>
+                    <Shift Byte="74">14</Shift>
+                    <Shift Byte="78">5</Shift>
+                    <Shift Byte="79">11</Shift>
+                    <Shift Byte="A2">1</Shift>
+                    <LeftFragment MaxOffset="26" MinOffset="26" Position="1">504B0304</LeftFragment>
+                </SubSequence>
+                <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+                    <Sequence>504B0102</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="01">2</Shift>
+                    <Shift Byte="02">1</Shift>
+                    <Shift Byte="4B">3</Shift>
+                    <Shift Byte="50">4</Shift>
+                </SubSequence>
+                <SubSequence MinFragLength="0" Position="3" SubSeqMinOffset="0">
+                    <Sequence>504B0506</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="05">2</Shift>
+                    <Shift Byte="06">1</Shift>
+                    <Shift Byte="4B">3</Shift>
+                    <Shift Byte="50">4</Shift>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+      
+      <InternalSignature ID="3" Specificity="Specific">
+          <ByteSequence Reference="BOFoffset">
+              <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                  <Sequence>CE19CE19</Sequence>
+                  <DefaultShift>5</DefaultShift>
+                  <Shift Byte="CE">2</Shift>
+                  <Shift Byte="19">1</Shift>
+              </SubSequence>
+          </ByteSequence>
+      </InternalSignature>
+      
+      <InternalSignature ID="21" Specificity="Specific">
+          <ByteSequence Reference="BOFoffset">
+              <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                  <Sequence>567B44726177506C75732050696374757265205631</Sequence>
+                  <DefaultShift>22</DefaultShift>
+                  <Shift Byte="56">2</Shift>
+                  <Shift Byte="7B">20</Shift>
+                  <Shift Byte="44">19</Shift>
+                  <Shift Byte="72">5</Shift>
+                  <Shift Byte="61">17</Shift>
+                  <Shift Byte="77">16</Shift>
+                  <Shift Byte="50">10</Shift>
+                  <Shift Byte="6C">14</Shift>
+                  <Shift Byte="75">6</Shift>
+                  <Shift Byte="73">12</Shift>
+                  <Shift Byte="20">3</Shift>
+                  <Shift Byte="69">9</Shift>
+                  <Shift Byte="63">8</Shift>
+                  <Shift Byte="74">7</Shift>
+                  <Shift Byte="65">4</Shift>
+                  <Shift Byte="31">1</Shift>
+              </SubSequence>
+          </ByteSequence>
+      </InternalSignature>
+      
+      <InternalSignature ID="22" Specificity="Specific">
+          <ByteSequence Reference="BOFoffset">
+              <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                  <Sequence>567B44726177506C75732050696374757265205632</Sequence>
+                  <DefaultShift>22</DefaultShift>
+                  <Shift Byte="56">2</Shift>
+                  <Shift Byte="7B">20</Shift>
+                  <Shift Byte="44">19</Shift>
+                  <Shift Byte="72">5</Shift>
+                  <Shift Byte="61">17</Shift>
+                  <Shift Byte="77">16</Shift>
+                  <Shift Byte="50">10</Shift>
+                  <Shift Byte="6C">14</Shift>
+                  <Shift Byte="75">6</Shift>
+                  <Shift Byte="73">12</Shift>
+                  <Shift Byte="20">3</Shift>
+                  <Shift Byte="69">9</Shift>
+                  <Shift Byte="63">8</Shift>
+                  <Shift Byte="74">7</Shift>
+                  <Shift Byte="65">4</Shift>
+                  <Shift Byte="32">1</Shift>
+              </SubSequence>
+          </ByteSequence>
+      </InternalSignature>
+
+</InternalSignatureCollection>
+
+<FileFormatCollection>
+
+    
+    <FileFormat ID="2" Name="Serif PhotoPlus Image" PUID="CHLdev/2" Version="X3 onward">
+        <Extension>spp</Extension>
+    </FileFormat>
+    <FileFormat ID="3" Name="Serif PhotoPlus Image" PUID="CHLdev/3" Version="5-X2">
+        <Extension>spp</Extension>
+    </FileFormat>
+    
+    <FileFormat ID="4" Name="Serif PagePlus Publication" PUID="CHLdev/103" Version="1-3">
+        <InternalSignatureID>3</InternalSignatureID>
+        <Extension>ppp</Extension>
+        <Extension>ppt</Extension>
+    </FileFormat>
+    
+    <FileFormat ID="5" Name="Serif PagePlus Publication" PUID="CHLdev/113" Version="X3">
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="6" Name="Serif PagePlus Publication" PUID="CHLdev/114" Version="X4">
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="7" Name="Serif PagePlus Publication" PUID="CHLdev/115" Version="X5">
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="8" Name="Serif PagePlus Publication" PUID="CHLdev/116" Version="X6">
+        <Extension>ppp</Extension>
+        <Extension>ppb</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="9" Name="Serif PagePlus Publication" PUID="CHLdev/117" Version="X7">
+        <Extension>ppp</Extension>
+        <Extension>ppb</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="10" Name="Serif PagePlus Publication" PUID="CHLdev/118" Version="X8">
+        <Extension>ppp</Extension>
+        <Extension>ppb</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="11" Name="Serif PagePlus Publication" PUID="CHLdev/119" Version="X9">
+        <Extension>ppp</Extension>
+        <Extension>ppb</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="12" Name="Serif PagePlus Publication" PUID="CHLdev/120" Version="SE">
+        <Extension>ppp</Extension>
+        <Extension>ppb</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    
+    <FileFormat ID="21" Name="Serif DrawPlus Drawing" PUID="CHLdev/201" Version="1">
+        <InternalSignatureID>21</InternalSignatureID>
+        <Extension>dpp</Extension>
+    </FileFormat>
+    <FileFormat ID="22" Name="Serif DrawPlus Drawing" PUID="CHLdev/202" Version="2">
+        <InternalSignatureID>22</InternalSignatureID>
+        <Extension>dpp</Extension>
+    </FileFormat>
+    
+    <FileFormat ID="26" Name="Serif DrawPlus Drawing" PUID="CHLdev/206" Version="6">
+        <HasPriorityOverFileFormatID>35</HasPriorityOverFileFormatID>
+        <Extension>dpp</Extension>
+        <Extension>dpa</Extension>
+        <Extension>dpx</Extension>
+    </FileFormat>
+    <FileFormat ID="27" Name="Serif DrawPlus Drawing" PUID="CHLdev/207" Version="7">
+        <HasPriorityOverFileFormatID>35</HasPriorityOverFileFormatID>
+        <Extension>dpp</Extension>
+        <Extension>dpa</Extension>
+        <Extension>dpx</Extension>
+    </FileFormat>
+    <FileFormat ID="28" Name="Serif DrawPlus Drawing" PUID="CHLdev/208" Version="8">
+        <HasPriorityOverFileFormatID>35</HasPriorityOverFileFormatID>
+        <Extension>dpp</Extension>
+        <Extension>dpa</Extension>
+        <Extension>dpx</Extension>
+    </FileFormat>
+    <FileFormat ID="29" Name="Serif DrawPlus Drawing" PUID="CHLdev/209" Version="X2">
+        <HasPriorityOverFileFormatID>35</HasPriorityOverFileFormatID>
+        <Extension>dpp</Extension>
+        <Extension>dpa</Extension>
+        <Extension>dpx</Extension>
+    </FileFormat>
+    <FileFormat ID="30" Name="Serif DrawPlus Drawing" PUID="CHLdev/223" Version="X3">
+        <Extension>dpp</Extension>
+        <Extension>dpa</Extension>
+        <Extension>dpx</Extension>
+    </FileFormat>
+    <FileFormat ID="31" Name="Serif DrawPlus Drawing" PUID="CHLdev/224" Version="X4">
+        <Extension>dpp</Extension>
+        <Extension>dpa</Extension>
+        <Extension>dpx</Extension>
+    </FileFormat>
+    <FileFormat ID="32" Name="Serif DrawPlus Drawing" PUID="CHLdev/225" Version="X5">
+        <Extension>dpp</Extension>
+        <Extension>dpa</Extension>
+        <Extension>dpx</Extension>
+    </FileFormat>
+    <FileFormat ID="33" Name="Serif DrawPlus Drawing" PUID="CHLdev/226" Version="X6">
+        <Extension>dpp</Extension>
+        <Extension>dpa</Extension>
+        <Extension>dpx</Extension>
+    </FileFormat>
+    <FileFormat ID="34" Name="Serif DrawPlus Drawing" PUID="CHLdev/228" Version="X8">
+        <Extension>dpp</Extension>
+        <Extension>dpa</Extension>
+        <Extension>dpx</Extension>
+    </FileFormat>
+    <FileFormat ID="35" Name="Serif DrawPlus Drawing" PUID="CHLdev/230" Version="Generic">
+        <Extension>dpp</Extension>
+        <Extension>dpa</Extension>
+    </FileFormat>
+    
+    
+    <FileFormat ID="1470" Name="Serif PagePlus Publication"
+        PUID="fmt/671" Version="Generic">
+        <Extension>ppp</Extension>
+    </FileFormat>
+    <FileFormat ID="1471" Name="Serif PagePlus Publication"
+        PUID="fmt/672" Version="4">
+        <HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="1472" Name="Serif PagePlus Publication"
+        PUID="fmt/673" Version="5">
+        <HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="1473" Name="Serif PagePlus Publication"
+        PUID="fmt/674" Version="6">
+        <HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="1474" Name="Serif PagePlus Publication"
+        PUID="fmt/675" Version="7">
+        <HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="1475" Name="Serif PagePlus Publication"
+        PUID="fmt/676" Version="8">
+        <HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="1476" Name="Serif PagePlus Publication"
+        PUID="fmt/677" Version="9">
+        <HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="1477" Name="Serif PagePlus Publication"
+        PUID="fmt/678" Version="10">
+        <HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="1478" Name="Serif PagePlus Publication"
+        PUID="fmt/679" Version="11">
+        <HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="1479" Name="Serif PagePlus Publication"
+        PUID="fmt/680" Version="X2">
+        <HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="1480" Name="Serif PagePlus Publication"
+        PUID="fmt/681" Version="Home Office">
+        <HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>
+        <Extension>ppp</Extension>
+        <Extension>ppx</Extension>
+    </FileFormat>
+    <FileFormat ID="1628" Name="Serif DrawPlus Drawing"
+        PUID="fmt/827" Version="3">
+        <HasPriorityOverFileFormatID>35</HasPriorityOverFileFormatID>
+        <Extension>dpp</Extension>
+    </FileFormat>
+    <FileFormat ID="1653" Name="Serif DrawPlus Drawing"
+        PUID="fmt/852" Version="4">
+        <HasPriorityOverFileFormatID>35</HasPriorityOverFileFormatID>
+        <Extension>dpp</Extension>
+        <Extension>dpa</Extension>
+    </FileFormat>
+    <FileFormat ID="1654" Name="Serif DrawPlus Drawing"
+        PUID="fmt/853" Version="5">
+        <HasPriorityOverFileFormatID>35</HasPriorityOverFileFormatID>
+        <Extension>dpp</Extension>
+    </FileFormat>
+
+   <FileFormat ID="767" Name="OLE2 Compound Document Format" PUID="fmt/111">
+      <InternalSignatureID>170</InternalSignatureID>
+   </FileFormat>
+
+   <FileFormat ID="382" MIMEType="application/zip" Name="ZIP Format" PUID="x-fmt/263">
+      <InternalSignatureID>200</InternalSignatureID>
+      <Extension>zip</Extension>
+   </FileFormat>
+
+   <FileFormat ID="910" Name="Microsoft Office Open XML" PUID="fmt/189" Version="2007 onwards">
+      <InternalSignatureID>258</InternalSignatureID>
+      <HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>
+   </FileFormat>
+
+</FileFormatCollection></FFSignatureFile>
