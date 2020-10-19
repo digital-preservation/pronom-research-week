@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="404056" DateCreated="2020-10-16T20:08:29+00:00">
+  <InternalSignatureCollection>
+  
+    <InternalSignature ID="1" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>61636633</Sequence>
+          <DefaultShift>5</DefaultShift>
+          <Shift Byte="61">4</Shift>
+          <Shift Byte="63">3</Shift>
+          <Shift Byte="66">2</Shift>
+          <Shift Byte="33">1</Shift>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    
+    <InternalSignature ID="2" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>46484432</Sequence>
+          <DefaultShift>5</DefaultShift>
+          <Shift Byte="46">4</Shift>
+          <Shift Byte="48">3</Shift>
+          <Shift Byte="44">2</Shift>
+          <Shift Byte="32">1</Shift>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+
+    <InternalSignature ID="3" Specificity="Specific">
+      <ByteSequence Reference="BOFoffset">
+        <SubSequence MinFragLength="68" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+          <Sequence>416C647573204672656548616E642034</Sequence>
+          <DefaultShift>17</DefaultShift>
+          <Shift Byte="41">16</Shift>
+          <Shift Byte="6C">15</Shift>
+          <Shift Byte="64">3</Shift>
+          <Shift Byte="75">13</Shift>
+          <Shift Byte="73">12</Shift>
+          <Shift Byte="20">2</Shift>
+          <Shift Byte="46">10</Shift>
+          <Shift Byte="72">9</Shift>
+          <Shift Byte="65">7</Shift>
+          <Shift Byte="48">6</Shift>
+          <Shift Byte="61">5</Shift>
+          <Shift Byte="6E">4</Shift>
+          <Shift Byte="34">1</Shift>
+          <LeftFragment MaxOffset="1024" MinOffset="64" Position="1">41474431</LeftFragment>
+        </SubSequence>
+      </ByteSequence>
+    </InternalSignature>
+    
+</InternalSignatureCollection>
+<FileFormatCollection>
+  
+  <FileFormat ID="1" Name="Aldus Freehand Drawing" PUID="CHLdev/1" Version="1" MIMEType="image/x-freehand">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension/>
+  </FileFormat>
+  
+  <FileFormat ID="2" Name="Aldus Freehand Drawing" PUID="CHLdev/2" Version="2" MIMEType="image/x-freehand">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension/>
+  </FileFormat>
+  
+  <FileFormat ID="458" Name="Aldus Freehand Drawing" PUID="x-fmt/304" Version="4" MIMEType="image/x-freehand">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>fh4</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
