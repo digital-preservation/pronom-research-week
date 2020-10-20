@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="052003"> 
+    <ContainerSignatures>
+
+        <ContainerSignature Id="13000" ContainerType="OLE2">
+            <Description>Microsoft Visio Document (generic) </Description>
+            <Files>
+                <File>
+                    <Path>VisioDocument</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="302">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0"
+                                        SubSeqMaxOffset="0">
+                                        <Sequence>'Visio (TM) Drawing'0D0A</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="13010" ContainerType="OLE2">
+            <Description>Microsoft Visio Document 2000</Description>
+            <Files>
+                <File>
+                    <Path>VisioDocument</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="302" Specificity="Specific"> - <ByteSequence
+                                Reference="BOFoffset"> - <SubSequence MinFragLength="0"
+                                    Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                                    <Sequence>'Visio (TM) Drawing'0D0A</Sequence>
+                                    <RightFragment MaxOffset="6" MinOffset="6" Position="1"
+                                        >06</RightFragment>
+                                </SubSequence>
+                            </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="13020" ContainerType="OLE2">
+            <Description>Microsoft Visio Document 2003-2010</Description>
+            <Files>
+                <File>
+                    <Path>VisioDocument</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="302"> - <ByteSequence Reference="BOFoffset"> -
+                                <SubSequence MinFragLength="0" Position="1"
+                                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                                    <Sequence>'Visio (TM) Drawing'0D0A</Sequence>
+                                    <RightFragment MaxOffset="6" MinOffset="6" Position="1"
+                                        >0B</RightFragment>
+                                </SubSequence>
+                            </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1003" ContainerType="OLE2">
+            <Description>Microsoft Visio Document 3</Description>
+            <Files>
+                <File>
+                    <Path>VisioDocument</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="302" Specificity="Specific"> - <ByteSequence
+                                Reference="BOFoffset"> - <SubSequence MinFragLength="0"
+                                    Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                                    <Sequence>'Visio (TM) Drawing'0D0A</Sequence>
+                                    <RightFragment MaxOffset="6" MinOffset="6" Position="1"
+                                        >03</RightFragment>
+                                </SubSequence>
+                            </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1004" ContainerType="OLE2">
+            <Description>Microsoft Visio Document 4</Description>
+            <Files>
+                <File>
+                    <Path>VisioDocument</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="302" Specificity="Specific"> - <ByteSequence
+                                Reference="BOFoffset"> - <SubSequence MinFragLength="0"
+                                    Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                                    <Sequence>'Visio (TM) Drawing'0D0A</Sequence>
+                                    <RightFragment MaxOffset="6" MinOffset="6" Position="1"
+                                        >04</RightFragment>
+                                </SubSequence>
+                            </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1005" ContainerType="OLE2">
+            <Description>Microsoft Visio Document 5</Description>
+            <Files>
+                <File>
+                    <Path>VisioDocument</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>
+                            <InternalSignature ID="302" Specificity="Specific"> - <ByteSequence
+                                Reference="BOFoffset"> - <SubSequence MinFragLength="0"
+                                    Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                                    <Sequence>'Visio (TM) Drawing'0D0A</Sequence>
+                                    <RightFragment MaxOffset="6" MinOffset="6" Position="1"
+                                        >05</RightFragment>
+                                </SubSequence>
+                            </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+            </Files>
+        </ContainerSignature>
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+        <!-- Microsoft Visio Document generic, 2000, 2003-2010 (OLE2) -->
+        <FileFormatMapping signatureId="13000" Puid="fmt/442"/>
+        <FileFormatMapping signatureId="13010" Puid="x-fmt/258"/>
+        <FileFormatMapping signatureId="13020" Puid="fmt/443"/>
+        
+        <FileFormatMapping signatureId="1003" Puid="CHLdev/3"/>
+        <FileFormatMapping signatureId="1004" Puid="CHLdev/4"/>
+        <FileFormatMapping signatureId="1005" Puid="x-fmt/113"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>
