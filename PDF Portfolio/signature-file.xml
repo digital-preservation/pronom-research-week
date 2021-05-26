@@ -34,12 +34,12 @@
             </ByteSequence>
             <ByteSequence Endianness=""> 
                 <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0" MinFragLength="0">
-                    <Sequence>3C3C2F43493C3C</Sequence>
+                    <Sequence>3C3C2F4349</Sequence>
                     <DefaultShift>8</DefaultShift>
-                    <Shift Byte="2F">5</Shift>
-                    <Shift Byte="3C">1</Shift>
-                    <Shift Byte="43">4</Shift>
-                    <Shift Byte="49">3</Shift>
+                    <Shift Byte="2F">3</Shift>
+                    <Shift Byte="3C">4</Shift>
+                    <Shift Byte="43">2</Shift>
+                    <Shift Byte="49">1</Shift>
                 </SubSequence>
             </ByteSequence>
             <ByteSequence Reference="EOFoffset" Endianness="">
